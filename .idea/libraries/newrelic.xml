@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="newrelic">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/newrelic.android.src.zip!/" />
+      <root url="jar://$PROJECT_DIR$/class.rewriter.src.zip!/" />
+      <root url="jar://$PROJECT_DIR$/agent-gradle-plugin-4.120.0.src.zip!/" />
+      <root url="jar://$PROJECT_DIR$/agent-gradle-plugin-4.120.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/agent-gradle-plugin-4.120.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

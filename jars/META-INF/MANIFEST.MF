@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.8.1
+Created-By: 1.6.0_32-b32 (Sun Microsystems Inc.)
+New-Relic-App-Version: 4.120.0
+Premain-Class: com.newrelic.agent.compile.RewriterAgent
+Agent-Class: com.newrelic.agent.compile.RewriterAgent
+Can-Retransform-Classes: true
+Can-Redefine-Classes: true
+
